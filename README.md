@@ -31,6 +31,10 @@ Login:
  -------------------------------------------|--------------------------------------------------------
  <img src="https://user-images.githubusercontent.com/79959032/121767340-4b4ece00-cb75-11eb-8977-c7e216186919.png" width=350 height=250>| <img src="https://user-images.githubusercontent.com/79959032/121767559-7554c000-cb76-11eb-941a-23243ff4bd47.png" width=450 height=250>
  
+ New Employee :                             |Set Salary :
+ -------------------------------------------|-------------------------------------------------------------------------
+ <img src="https://user-images.githubusercontent.com/79959032/121768248-e72f0880-cb7a-11eb-8b7d-376e654fcd75.png" width=250 height=300>|<img src="https://user-images.githubusercontent.com/79959032/121768263-02017d00-cb7b-11eb-81c1-c2bf33f5a788.png" width=250 height=300>
+ 
  View Employee :                            |View Employee Attendence :
  -------------------------------------------|--------------------------------------------------------------------------------------------
  <img src="https://user-images.githubusercontent.com/79959032/121767880-bcdc4b80-cb78-11eb-9b84-4693a771d8f3.png" width=450 height=250>|<img src="https://user-images.githubusercontent.com/79959032/121767577-91586180-cb76-11eb-885f-911f15d2aa79.png" width=450 height=250>
